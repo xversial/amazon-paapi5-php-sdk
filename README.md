@@ -10,7 +10,7 @@ This repository contains the open source PHP SDK that allows you to access the [
 The Product Advertising API PHP SDK can be installed with [Composer](https://getcomposer.org/). The SDK is available via [Packagist](http://packagist.org/) under the [`xversial/paapi5-php-sdk`](https://packagist.org/packages/xversial/paapi5-php-sdk) package. If Composer is installed globally on your system, you can run the following in the base directory of your project to add the SDK as a dependency:
 
 ```sh
-composer require amzn/paapi5-php-sdk
+composer require xversial/paapi5-php-sdk
 ```
 
 ## Usage
